@@ -1,6 +1,6 @@
 # My Notes App Build with React
 
-Hi, everyone this is my responsive react project that will help :
+Hi, everyone this is my  react project that will help :
 - Keeps note
 - Edit notes
 - Delete Notes
@@ -13,5 +13,5 @@ Hi, everyone this is my responsive react project that will help :
 - and run the project
 
 
-You can see my project live [My Notes](https://my-notes-3qt.pages.dev)
+You can see my project live  : [My Notes](https://my-notes-3qt.pages.dev)
 
