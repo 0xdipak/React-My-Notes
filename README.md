@@ -13,5 +13,5 @@ Hi, everyone this is my  react project that will help :
 - and run the project
 
 
-You can see my project live  : [My Notes](https://my-notes-3qt.pages.dev)
+You can see my project live on cloudflare : [My Notes](https://my-notes-3qt.pages.dev)
 
